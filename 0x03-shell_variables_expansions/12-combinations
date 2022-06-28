@@ -1,2 +1,2 @@
-#!bin/bash
-echo {a..z}{a..z}
+#!/in/bash
+echo {a..z}{a..zR}|tr " " "\n"
