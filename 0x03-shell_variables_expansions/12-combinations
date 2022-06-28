@@ -1,2 +1,2 @@
-#!/in/bash
+#!/bin/bash
 echo {a..z}{a..zR}|tr " " "\n"|grep -v "oo"
