@@ -1,2 +1,2 @@
-#!/vin/bash
+#!/bin/bash
 eco "hello $USER"
